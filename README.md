@@ -14,4 +14,4 @@ Criar e estilizar página html com as seguintes tags:
 
 Resultado: 
 
-<img src="imagens/screencapture_desktop.png">
+<img src="imagens/screencapture.png">
