@@ -175,22 +175,17 @@ section.about > .content > table th {
 }
 
 
-section.skills > .content > .flex-box {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-}
-
-section.skills > .content > .flex-box > ul {
+section.skills > .content > ul {
   width: 50%;
+  margin: auto;
   padding: 25px;
 }
 
-section.skills > .content > .flex-box > ul > h3 {
+section.skills > .content > ul > h3 {
   text-align: center;
 }
 
-section.skills > .content > .flex-box > ul > li {
+section.skills > .content > ul > li {
   height: 30px;
   color: white;
   font-size: 12px;
@@ -205,7 +200,7 @@ section.skills > .content > .flex-box > ul > li {
   align-items: center;
 }
 
-section.skills > .content > .flex-box > ul > li > span.percent {
+section.skills > .content > ul > li > span.percent {
   width: 40%;
   height: 100%;
   position: absolute;
