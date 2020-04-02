@@ -1,6 +1,6 @@
 # Growdev | Exercicio aula 2
 
-Desafio proposto:
+Projeto realizado na aula 2 do bootcamp starter | Growdev
 
 Criar e estilizar página html com as seguintes tags:
 
