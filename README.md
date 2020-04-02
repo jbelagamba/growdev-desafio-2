@@ -1,7 +1,5 @@
 # Growdev | Exercicio aula 2
 
----
-
 Desafio proposto:
 
 Criar e estilizar página html com as seguintes tags:
@@ -12,8 +10,7 @@ Criar e estilizar página html com as seguintes tags:
 - Tabela
 - Utilização de cores
 
----
 
 Resultado: 
 
-<img src="">
+<img src="imagens/screencapture.png">
